@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ifm_name1">用户名</string>
+    <string name="ifm_name2">密码</string>
+    <string name="ifm_name3">登录</string>
+    <string name="ifm_name4">没有账号？立即注册！</string>
+    <string name="ifm_name5">确认密码</string>
+    <string name="ifm_name6">注册</string>
+    <string name="ifm_name7">注册码</string>
+</resources>
